@@ -1,0 +1,49 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+127.0.0.1 dev.mdm.tgddbeta.vn   
+127.0.0.1 dev.tms.tterpbeta.vn 
+10.1.5.231  erpauthenapi.tterpbeta.vn
+10.1.5.231  erpcacheapi.tterpbeta.vn
+10.1.5.231  erpmdmapi.tterpbeta.vn
+10.1.5.231  erpsystemalertapi.tterpbeta.vn
+10.1.5.231  erpcoreapi.tterpbeta.vn
+10.1.5.231  erpservicecontrolapi.tterpbeta.vn
+
+10.1.5.231  erpapplogapi.tterpbeta.vn
+10.1.5.230 erpcachefilecdn.tterpbeta.vn
+10.1.5.230 erpcachefilecdnbk1.tterpbeta.vn
+10.1.4.217  betaerpapi.thegioididong.com
+10.1.4.217  betaapi.tms.com
+
+10.1.5.231  erpsearchengineapi.tterpbeta.vn
+10.1.5.102  erpttbeta-mongodb-102
+10.1.5.103  erpttbeta-mongodb-103
+10.1.5.231 tmsmdmapi.tterpbeta.vn
+10.1.5.231 tms.tterpbeta.vn
+10.1.5.231 erp.tms.vn
+10.1.5.231  devtms.tantamphucvu.vn
+10.1.5.231 coremdmapi.tterpbeta.vn
+
+10.1.4.80 betalogisticapi.thegioididong.com
+192.168.2.38 crmwebapi.thegioididong.com
+192.168.2.204 stagingcrmwebapi.thegioididong.com
+10.1.4.103 betacrmwebapi.thegioididong.com
