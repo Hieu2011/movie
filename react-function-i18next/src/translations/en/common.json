@@ -1,0 +1,20 @@
+{
+	"product_trans":[
+		{
+			"id" : 1,
+			"description": "iPhone X owns two tempered glass sides, combined with a stainless steel border to replace the previous aluminum border (this is also the first time steel is used on a smartphone). Edgeless edge-to-edge screen with Notch cutout containing the front camera. The dual camera cluster is placed vertically to the top left."
+		},
+		{
+			"id" : 2,
+			"description": "iPhone 11 has the same size and design language as the iPhone XR, including two glass sides combined with an aluminum frame. The machine is available in six color options, including Purple, Yellow, Green, Black, White and Product Red.[3] iPhone 11 has a design change with previous generations before the back with a cluster of two cameras including wide and super wide lenses placed in a square frame set to the left corner, the Apple logo is placed in the middle and the words iPhone be left. The front of the device retains the notch design to accommodate the TrueDepth camera cluster."
+		},
+		{
+			"id" : 3,
+			"description": "iPhone 12 and iPhone 12 Mini are a pair of smartphones in the iPhone series launched by Apple on October 13, 2020, along with the iPhone 12 Pro and iPhone 12 Pro Max duo. This is the successor to the iPhone 11 with many upgrades. iPhone 12 is equipped with Apple A14 Bionic faster processing speed, higher quality screen. The starting price of iPhone 12 Mini and iPhone 12 is 699 USD and 799 USD. Apple for customers can pre-order the iPhone 12 from October 16, 2020, and the iPhone 12 Mini from November 6, 2020."
+		}
+	]
+		
+	
+	
+	
+}

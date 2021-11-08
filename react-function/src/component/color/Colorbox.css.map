@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,UAAU,CAAA;EAEN,KAAK,EADM,KAAK;EAEhB,MAAM,EAFK,KAAK;EAGhB,MAAM,EAAE,eAAe;EACvB,aAAa,EAAE,IAAI;EACnB,UAAU,EAAE,uBAAuB;EACnC,MAAM,EAAE,OAAO;CAClB",
+    "sources": [
+        "Colorbox.scss"
+    ],
+    "names": [],
+    "file": "Colorbox.css"
+}

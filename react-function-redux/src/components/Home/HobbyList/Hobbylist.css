@@ -1,0 +1,11 @@
+ul.hobby-list li {
+  -webkit-transition: all .25s ease-in-out 0s;
+  transition: all .25s ease-in-out 0s;
+  cursor: pointer;
+}
+
+ul.hobby-list .active {
+  color: #ee20dd;
+  font-size: 30px;
+}
+/*# sourceMappingURL=Hobbylist.css.map */

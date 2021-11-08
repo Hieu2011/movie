@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AACI,EADF,AAAA,WAAW,CACT,EAAE,CAAA;EACE,UAAU,EAAE,uBAAuB;EACnC,MAAM,EAAE,OAAO;CAElB;;AALL,AAOI,EAPF,AAAA,WAAW,CAOT,OAAO,CAAA;EACH,KAAK,EAAE,OAAiB;EACxB,SAAS,EAAE,IAAI;CAClB",
+    "sources": [
+        "Hobbylist.scss"
+    ],
+    "names": [],
+    "file": "Hobbylist.css"
+}
